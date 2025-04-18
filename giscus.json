@@ -1,5 +1,8 @@
 {
   "origins": [
     "https://www.serlabs.com"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
   ]
 }
